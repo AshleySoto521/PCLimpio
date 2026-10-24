@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+
+# Compilación del .exe (se genera con build.py o en GitHub Actions)
+build/
+dist/
+*.spec
+
+# Editores y sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
